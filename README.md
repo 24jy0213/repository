@@ -29,8 +29,8 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</details>
 2. JavaScript
 3. SQL
 
-- []タスク1
-- [x]タスク2
+- [ ] タスク1
+- [x] タスク2
 
 |A列|B列|C列|D列|E列|
 |-|:-:|:-|-:|-|
