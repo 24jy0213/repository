@@ -21,13 +21,26 @@ hello *hello* **hello** _hello_ __hello__ ~~hello~~
 本文をここから書く。
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</details>
 
--HTML
--JAVA
--PHP
+- HTML
+- JAVA
+- PHP
 
-1.SQL
-2.JavaScript
-3.SQL
+1. SQL
+2. JavaScript
+3. SQL
 
--[]タスク1
--[x]タスク2
+- []タスク1
+- [x]タスク2
+
+|A列|B列|C列|D列|E列|
+|-|:-:|:-|-:|-|
+|あ|い|う|え|お|
+|かか|きき|くく|けけ|ここ|
+|さささ|ししし|すすす|せせせ|そそそ|
+
+``` 
+for(int i=0; i<10; i++){
+    int rand = (int)(Math.random()*10);
+    System.out.println("乱数[" + i + "]:" + rand);
+}
+```
